@@ -38,7 +38,7 @@ namespace TodoApp.API.Controllers
     [HttpPost]
     public async Task<ActionResult<TodoItem>> CreateTodo(TodoItem todoItem)
     {
-      todoItem.CreatedDate = DateTime.UtcNow;
+      // Removed CreatedDate line
       _context.Todos.Add(todoItem);
       await _context.SaveChangesAsync();
 
@@ -96,7 +96,7 @@ namespace TodoApp.API.Controllers
       }
 
       todoItem.IsCompleted = !todoItem.IsCompleted;
-      todoItem.CompletedDate = todoItem.IsCompleted ? DateTime.UtcNow : null;
+      // Removed CompletedDate line
 
       await _context.SaveChangesAsync();
       return Ok(todoItem);

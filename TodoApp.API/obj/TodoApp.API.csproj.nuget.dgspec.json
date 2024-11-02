@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Todo-App-Ang\\TodoApp.API\\TodoApp.API.csproj": {}
+    "C:\\Users\\User\\Desktop\\Todo-App\\TodoApp.API\\TodoApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Todo-App-Ang\\TodoApp.API\\TodoApp.API.csproj": {
+    "C:\\Users\\User\\Desktop\\Todo-App\\TodoApp.API\\TodoApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Todo-App-Ang\\TodoApp.API\\TodoApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Todo-App\\TodoApp.API\\TodoApp.API.csproj",
         "projectName": "TodoApp.API",
-        "projectPath": "C:\\Users\\User\\Desktop\\Todo-App-Ang\\TodoApp.API\\TodoApp.API.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Todo-App\\TodoApp.API\\TodoApp.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Todo-App-Ang\\TodoApp.API\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Todo-App\\TodoApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
